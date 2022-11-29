@@ -1,0 +1,10 @@
+name: CornoCore
+version: 1.5
+main: Main
+description: Prevent many exploits that affect anarchy servers.
+depend: [ ProtocolLib ]
+
+commands:
+  aef:
+    usage: /<command>
+    description: CCore commands

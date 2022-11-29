@@ -1,0 +1,10 @@
+name: CornoCore
+version: ${project.version}
+main: Main
+description: ${project.description}
+depend: [ ProtocolLib ]
+
+commands:
+  aef:
+    usage: /<command>
+    description: CCore commands
