@@ -1,4 +1,5 @@
 # CornoCore
 
 Exploit patcher do CornoCrystal
-v2 sendo trabalhada
+credits: AlternativeAEF
+this is basically a complete skid since i just wanted diff things together
