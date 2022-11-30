@@ -30,7 +30,7 @@ public final class Main extends JavaPlugin implements Listener {
         ProtocolLib.protocolLibWrapper(this);
         log.info("Registering events finished");
         log.info("Registering commands");
-        getCommand("aef").setExecutor(new Commands(this));
+        getCommand("ccore").setExecutor(new Commands(this));
         log.info("Registering commands finished");
         saveDefaultConfig();
         log.info("[ENABLED] CornoCore - Made by moomoo, hykeu and cherosin");
